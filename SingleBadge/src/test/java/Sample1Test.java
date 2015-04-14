@@ -8,6 +8,6 @@ public class Sample1Test {
 	  @Test
 	  public void testExceptionIsThrown() {
 	    assertTrue(false);
-	    //test 1
+	    //test 2
 	  }
 }
